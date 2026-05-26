@@ -3,12 +3,12 @@
 A project for making and managing API calls — demonstrating how to send requests, handle responses, and integrate external APIs into your application.
 
 
-## 📋 Description
+## Description
 
 API-CALL is a lightweight project that showcases how to interact with external APIs using HTTP requests. It covers common patterns such as GET and POST requests, handling JSON responses, error handling, and organizing API logic cleanly within a codebase.
 
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 Follow these steps to get the project up and running on your local machine:
 
@@ -53,20 +53,20 @@ npm start
 > ```
 
 
-## 📁 Project Files
+##  Project Files
 
 The full project source code is available for download via the link below:
 
 Google Drive: [Download Project Files](https://drive.google.com/file/d/19BsV-KsEmzXo-GezvpAow0mYf-u_wvEp/view?usp=drive_link)
 
 
-## 🛠️ Requirements
+## Requirements
 
 - Node.js v16+ (or Python 3.8+)
 - npm or pip
 - A valid API key for the target service
 
 
-## 📄 License
+## License
 
 This project is for educational and demonstration purposes.
